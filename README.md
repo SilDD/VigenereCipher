@@ -3,11 +3,13 @@ This is your cipher application for your terminal. You have to set a keyword for
 
 
 ## Please set your inputs like
-
+----------------------------------
 > <link_to_Folder>\vigenere.py [KEYWORD] [TEXT] [EN/DE]
-
+----------------------------------
 >[EN] => encryption
+----------------------------------
 >[DE] => decription
+----------------------------------
 
 ### Note: It doesn't matter if your inputs are lower or upper case. The tool will always convert your input to uppercase.
 
